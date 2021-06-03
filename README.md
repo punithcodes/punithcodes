@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @punithcodes 
-- 👀 I’m interested in Coding and learning new things.
+- 👀 I’m interested in solving problems and learning new things.
 - 🌱 I’m currently learning Django, REST Api, Javascript.
 - 📫 How to reach me impunith1@gmail.com 
 - ⚡ Fun fact : I find all the possible ways in which the code doesnt work.
