@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punithcodes 
 - 👀 I’m interested in solving problems through code and learn new things.
-- 🌱 I’m currently learning Django REST Framework and Javascript.
+- 🌱 I’m currently learning Javascript (MEAN Stack).
 - 📫 How to reach me impunith1@gmail.com 
 - ⚡ Fun fact : I build code without bugs !!
 <!---
